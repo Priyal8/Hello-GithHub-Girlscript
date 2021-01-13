@@ -1,0 +1,9 @@
+#include<iostream.h>
+using namespace std;
+
+void main()
+{
+	cout<<"Hello GitHub!";
+	cout<<"DEMO of OPEN_SOURCE COURSE :)"
+}
+
